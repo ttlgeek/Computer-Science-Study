@@ -10,5 +10,3 @@ def selection_sort(num_list):
 		num_list[current_minimum_index], num_list[i] = num_list[i], num_list[current_minimum_index]
 
 	return num_list
-
-print(selection_sort([3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48]))
