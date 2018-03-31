@@ -6,3 +6,5 @@ This repo will have implementations of DS &amp; Algorithms as part of my CS self
  - [Bubble Sort implementation in Python 3](https://github.com/ttlgeek/Computer-Science-Study/blob/master/Sorting%20Algorithms/Bubble%20Sort.py)
    
  - [Selection Sort implementation in Python 3](https://github.com/ttlgeek/Computer-Science-Study/blob/master/Sorting%20Algorithms/Selection%20Sort.py)
+
+- [Counting Sort implementation in Python 3](https://github.com/ttlgeek/Computer-Science-Study/blob/master/Sorting%20Algorithms/Counting%20Sort.py)
